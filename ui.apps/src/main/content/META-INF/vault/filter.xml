@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/aem-easy-content-upgrade-project/clientlibs"/>
+    <filter root="/apps/aem-easy-content-upgrade-project/components"/>
+    <filter root="/apps/aem-easy-content-upgrade-project/i18n"/>
+</workspaceFilter>
