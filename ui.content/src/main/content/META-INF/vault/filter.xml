@@ -4,4 +4,5 @@
     <filter root="/content/aem-easy-content-upgrade-project" mode="merge"/>
     <filter root="/content/dam/aem-easy-content-upgrade-project/asset.jpg" mode="merge"/>
     <filter root="/content/experience-fragments/aem-easy-content-upgrade-project" mode="merge"/>
+    <filter root="/conf/groovyconsole/scripts/aecu" mode="merge"/>
 </workspaceFilter>
