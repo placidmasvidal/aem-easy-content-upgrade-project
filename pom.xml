@@ -535,6 +535,18 @@ Bundle-DocURL:
               <version>6.5.7.0</version>
                                       
             </dependency>
+
+            <dependency>
+
+              <groupId>de.valtech.aecu</groupId>
+
+              <artifactId>aecu.complete</artifactId>
+
+              <version>LATEST</version>
+
+              <type>zip</type>
+
+            </dependency>
                                 
           </dependencies>
                           
