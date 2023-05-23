@@ -744,6 +744,21 @@ Bundle-DocURL:
           </configuration>
                           
         </plugin>
+
+        <plugin>
+          <groupId>com.day.jcr.vault</groupId>
+          <artifactId>content-package-maven-plugin</artifactId>
+          <extensions>true</extensions>
+          <configuration>
+            <filterSource>src/main/content/META-INF/vault/filter.xml</filterSource>
+            <verbose>true</verbose>
+            <failOnError>true</failOnError>
+            <group>Valtech</group>
+            <properties>
+              <installhook.aecu.class>de.valtech.aecu.core.installhook.AecuInstallHook</installhook.aecu.class>
+            </properties>
+          </configuration>
+        </plugin>
                     
       </plugins>
               
